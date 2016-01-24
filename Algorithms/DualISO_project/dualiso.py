@@ -1,4 +1,5 @@
 #!/usr/bin/python2
+'''The input Query graph and Data graph are both given as edge lists. Any form of representation can be used, it is upto the flexibility of networkx library.'''
 import networkx as nx
 import dualiso_main
 
