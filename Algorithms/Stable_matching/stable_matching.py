@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-'''The preference list must be sorted in reverse orde. ie, most prefered option should be at the last. This is beacause of the stack usage.'''
+'''The preference list must be sorted in reverse order. ie, most prefered option should be at the last. This is beacause of the stack usage.'''
 import json
 
 data=open('stable_matching_input.json').read()
